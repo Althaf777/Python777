@@ -14,7 +14,7 @@ Diversity and Inclusion: Tracks workforce diversity metrics and identifies poten
 Time and Attendance: Monitors employee attendance, overtime, and leave patterns.
 Training and Development: Evaluates training effectiveness, identifies training needs, and tracks employee skill development.
 
-#Tools and Technologies
+# Tools and Technologies
 
 Power BI Desktop
 Power Query
