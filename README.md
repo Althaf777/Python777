@@ -17,5 +17,7 @@ Training and Development: Evaluates training effectiveness, identifies training 
 # Tools and Technologies
 
 Power BI Desktop
+
 Power Query
+
 DAX
